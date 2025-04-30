@@ -1,2 +1,2 @@
 # xgboost-tutorial
-XGBoost Tutorial
+This is a XGBoost Tutorial

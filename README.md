@@ -1,2 +1,2 @@
-# xgboost-tutorial
-This is a XGBoost Tutorial
+# sklearn-tutorial
+This is a sklearn tutorial.
